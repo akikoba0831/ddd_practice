@@ -60,8 +60,6 @@ Laravelの`.env`もGit管理から除外されています。
 このCompose構成はローカル開発用です。LaravelのBlade/Viteの編集を行う場合は、
 別途Viteの実行環境を追加してください。画面開発は`frontend/`で行う想定です。
 
-## 参考
-
 ## 初期構築時の検証
 
 - Docker Compose設定の検証と両イメージのビルド: 成功
